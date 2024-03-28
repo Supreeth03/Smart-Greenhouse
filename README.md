@@ -27,7 +27,7 @@ ESP32 Board Drivers
 Getting Started:
 To get started with our Smart Greenhouse project, follow these steps:
 
-Clone this repository to your local machine using git clone <repository-url>.
+Clone this repository to your local machine using git clone [<repository-url>](https://github.com/Supreeth03/Smart-Greenhouse.git).
 Install any necessary dependencies for running the project.
 Follow the instructions in the project documentation to set up and configure the system.
 Start monitoring and controlling your greenhouse environment effectively!
