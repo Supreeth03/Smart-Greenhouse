@@ -14,7 +14,8 @@ Hardware:
   ESP32,
   DHT11 Sensor, 
   LDR Sensor,
-  Soil Moisture Sensor.
+  Soil Moisture Sensor,
+  4-Channel Relay
 
 Software:
   Arduino IDE.
