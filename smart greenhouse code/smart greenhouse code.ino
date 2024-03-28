@@ -21,10 +21,10 @@ void setup() {
   delay(100);
   Serial.println("WELCOME");
   dht.begin();
-  pinMode(motorpin1, OUTPUT);
-  pinMode(motorpin2, OUTPUT);
-  pinMode(motorpin3, OUTPUT);
-  pinMode(motorpin4, OUTPUT);
+  pinMode(motorpin1, OUTPUT); //relay output 1
+  pinMode(motorpin2, OUTPUT); //relay output 2
+  pinMode(motorpin3, OUTPUT); //relay output 3
+  pinMode(motorpin4, OUTPUT); //relay output 4
   pinMode(ldrpin, INPUT);
   delay(4000);
   lcd.init();
