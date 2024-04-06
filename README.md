@@ -21,7 +21,7 @@ The Smart Greenhouse project utilizes advanced sensor technology and automation 
 - Arduino IDE
 
 ## Dependencies
-- [ESP32 Board Preference Link](link)
+- ESP32 Board Preference Link
 - ESP32 Board Drivers (could be installed online)
 
 ## Getting Started
